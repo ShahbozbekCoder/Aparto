@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Aparto</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home">Home</string>
+    <string name="search">Search</string>
+    <string name="favorites">Favorites</string>
+    <string name="chats">Chats</string>
+    <string name="cabinet">Cabinet</string>
+    <string name="sell_with_aparto">Sell with aparto</string>
+    <string name="aparto_will_help_you_sell_your_property">Aparto will help you sell your property</string>
+    <string name="submit_your_application">Submit your application</string>
+    <string name="not_now">Not now</string>
+</resources>
