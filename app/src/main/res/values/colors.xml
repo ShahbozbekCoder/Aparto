@@ -10,4 +10,7 @@
     <color name="blue">#0049B5</color>
     <color name="back">#F7FAFF</color>
     <color name="green">#0A836C</color>
+    <color name="card_back">#F9FBFC</color>
+    <color name="grey">#8D989D</color>
+    <color name="stroke">#F4F7F7</color>
 </resources>
